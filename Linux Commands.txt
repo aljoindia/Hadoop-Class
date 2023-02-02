@@ -1,0 +1,37 @@
+Linux commands
+
+pwd : present working directory; location of the current working directory
+
+mkdir : make directory is used to create a directory in the present working directory
+
+rmdir : removing or deleting a directory
+
+ls : used to list all the directories (not files) in the present working directory
+
+cd : used to change the current directory to a new directory (~ is used to add the root path
+
+cat : used to create, display a file or copy a file to another file
+
+rm : just rm is used to remove a file
+
+cp : used to just copy a file either in the same directory or to another directory
+
+mv : used to move a file from one directory to another
+
+head : displays the first 10 lines of the contents in a file
+
+tail : displays the last 10 lines of the contents in a file
+
+tac : reverse of cat command name and displays the contents of the file in reverse order i.e. from the last line first
+
+su : changes the administrative access (linux shell) to another user
+
+grep : stands for global regular expression print and is used to search the contents of a file
+
+date : gives the date and time details
+
+cal : displays the current month's calendar and the current date highlighted
+
+clear : clears the screen of the terminal (commands are still in the history)
+
+exit : to exit the terminal
